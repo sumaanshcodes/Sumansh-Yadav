@@ -1,10 +1,9 @@
                    // Assignment on Methods
+//                   import java.util.Scanner;
+//                   public class Assignment {
 
 
-//public class Assignment {
-
-
- //Q1. Create a class StudentInfo with a method displayInfo() that prints your name, age, and grade.
+                   //Q1. Create a class StudentInfo with a method displayInfo() that prints your name, age, and grade.
 
 
 //        public void displayInfo() {
@@ -21,7 +20,6 @@
 //Q2. Create a class Calculator with a method addNumbers() that adds two numbers and prints the result.
 
 
-
 //        public void addNumbers() {
 //            int a = 10;
 //            int b = 20;
@@ -35,7 +33,6 @@
 //        }
 
 //Q3. Create a class Greeting with a method sayHello() that takes your name as a parameter and prints:
-
 
 
 //        public void sayHello(String name) {
@@ -84,14 +81,18 @@
 //            Assignment obj = new Assignment();
 //            obj.calculateInterest();
 //        }
-//    }
+//Q.6-Write a Java program to print all alphabets from a to z.
+//
+//    public static void main(String[] args) {
+//        for (char c = 'a'; c <= 'z'; c++) {
+//            System.out.print(c + " ");
+//        }
+//        System.out.println();
+//        for (char c = 'A'; c <= 'Z'; c++) {
+//            System.out.print(c + " ");
+//        }
+//
+//  }
 
-
-/*
-*
-*
-*
-*
-* */
 
 

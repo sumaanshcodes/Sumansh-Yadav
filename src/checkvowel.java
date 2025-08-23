@@ -1,3 +1,5 @@
+//Q.- WAP to find is it a vowel or consonent?
+
 import java.util.Scanner;
 
 public class checkvowel {
